@@ -1,0 +1,23 @@
+html, body, #map {
+    width: 100%; height: 100%; padding: 0; margin: 0;
+    min-height: 450px;
+}
+
+.YMaps-layer-container img{
+    max-width: none;
+}
+
+
+.map-container{
+    min-height: 450px;
+    margin-bottom: 0px;
+    padding: 5px 5px 5px 5px !important;
+}
+
+
+
+.jumbotron {
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}

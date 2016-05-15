@@ -1,0 +1,53 @@
+{
+	"szao": {
+	"coord_width": 55.82937,
+	"coord_length": 37.451546
+ 	},
+ 	
+	"sao": {
+	"coord_width": 55.838384,
+	"coord_length": 37.525765
+ 	},
+ 	
+	"svao": {
+	"coord_width": 55.863833, 
+	"coord_length": 37.620366
+ 	},
+ 	
+	"vao": {
+	"coord_width": 55.78771, 
+	"coord_length": 37.775631
+ 	},
+ 	
+	"uvao": {
+	"coord_width": 55.692019, 
+	"coord_length": 37.754583
+ 	},
+ 	
+	"uao": {
+	"coord_width": 55.610906, 
+	"coord_length": 37.681479
+ 	},
+ 	
+	"uzao": {
+	"coord_width": 55.662735, 
+	"coord_length": 37.576178
+ 	},
+ 	
+	"zao": {
+	"coord_width": 55.728003,
+	"coord_length": 37.443533
+ 	},
+ 	
+	"cao": {
+	"coord_width": 55.753742,
+	"coord_length": 37.615533
+ 	},
+
+	"new-msk": {
+	"coord_width": 55.558121,
+	"coord_length": 37.370724
+	}
+
+}
+
